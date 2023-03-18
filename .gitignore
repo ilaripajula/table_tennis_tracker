@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+VGG16_DeConv.py
+/data/*/
+#!/data/get_data.sh
+#!/data/test_get_data.sh
